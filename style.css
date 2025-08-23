@@ -270,7 +270,7 @@ span{
     margin: auto;
 }
 .project-box .project-info .butn{
-    padding: 10px;
+    padding: 0.6rem;
     margin-top: 7px;
     border-radius: 10px;
     background-color: var(--second-bg-color);
@@ -459,5 +459,6 @@ span{
         grid-template-columns: repeat(1,1fr);
     }
 }
+
 
 
